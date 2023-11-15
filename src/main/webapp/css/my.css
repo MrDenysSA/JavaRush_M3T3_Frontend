@@ -1,0 +1,17 @@
+.players-table {
+    border: 1px solid black;
+}
+
+.header\=cell {
+    border: 1px solid black;
+    min-width: 80px;
+    padding: 5px;
+}
+
+.cell {
+    border: 1px solid black;
+}
+
+.cell_small {
+    min-width: auto;
+}
