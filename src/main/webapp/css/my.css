@@ -15,3 +15,14 @@
 .cell_small {
     min-width: auto;
 }
+
+.cell_auto {
+}
+
+.edit-image, .delete-image {
+    width: 40px;
+    height: 40px;
+}
+.active-pagination-button {
+    color: red;
+}
